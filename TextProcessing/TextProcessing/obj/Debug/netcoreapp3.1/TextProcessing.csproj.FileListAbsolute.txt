@@ -1,0 +1,39 @@
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.exe
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.deps.json
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.json
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.dev.json
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfoInputs.cache
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfo.cs
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.genruntimeconfig.cache
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfoInputs.cache
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfo.cs
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.exe
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.deps.json
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.json
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.dev.json
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.genruntimeconfig.cache
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.exe
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.deps.json
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.json
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.dev.json
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfoInputs.cache
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfo.cs
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.dll
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.pdb
+E:\2 КУРС\ЯП\TextProcessing - копия - копия\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.genruntimeconfig.cache
